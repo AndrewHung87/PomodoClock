@@ -36,19 +36,6 @@
 
 ---
 
-## Chrome Extension
-
-A toolbar extension is also available in `PomodoClock-extension.zip`.
-
-**To install:**
-1. Unzip the file
-2. Go to `chrome://extensions`
-3. Enable **Developer mode** (top-right toggle)
-4. Click **Load unpacked** → select the unzipped folder
-5. The 🍅 icon appears in your toolbar
-
----
-
 ## Tech
 
 - Vanilla HTML / CSS / JS — no frameworks
